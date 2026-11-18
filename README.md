@@ -1,5 +1,9 @@
 # Sum up 17 November's world news in one image
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/vickyair1/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261117/vickyair1/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117)
+
 Entry for the make.fun bounty
 [`news-image-20261117`](https://make.fun/bounty/news-image-20261117):
 a newspaper front page that sums up the world news of
